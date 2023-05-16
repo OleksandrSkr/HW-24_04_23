@@ -8,5 +8,5 @@ class Admin:
         return "Hello world"
 #        print("Hello World")
     def mend_something(self):
-        return "mend_something"
+        return "01101101"
 #        print("01101101")
